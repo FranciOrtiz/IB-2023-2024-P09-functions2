@@ -1,0 +1,5 @@
+/home/usuario/practicas/P09-functions2/scalar_product/build/CMakeFiles/rebuild_cache.dir
+/home/usuario/practicas/P09-functions2/scalar_product/build/CMakeFiles/edit_cache.dir
+/home/usuario/practicas/P09-functions2/scalar_product/build/CMakeFiles/doc.dir
+/home/usuario/practicas/P09-functions2/scalar_product/build/CMakeFiles/scalar_product.dir
+/home/usuario/practicas/P09-functions2/scalar_product/build/CMakeFiles/tools.dir
