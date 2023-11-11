@@ -1,0 +1,5 @@
+/home/usuario/practicas/P09-functions2/polynomial/build/CMakeFiles/rebuild_cache.dir
+/home/usuario/practicas/P09-functions2/polynomial/build/CMakeFiles/edit_cache.dir
+/home/usuario/practicas/P09-functions2/polynomial/build/CMakeFiles/doc.dir
+/home/usuario/practicas/P09-functions2/polynomial/build/CMakeFiles/polynomial.dir
+/home/usuario/practicas/P09-functions2/polynomial/build/CMakeFiles/tools.dir
