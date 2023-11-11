@@ -1,0 +1,5 @@
+/home/usuario/practicas/P09-functions2/hypotenuse/build/CMakeFiles/rebuild_cache.dir
+/home/usuario/practicas/P09-functions2/hypotenuse/build/CMakeFiles/edit_cache.dir
+/home/usuario/practicas/P09-functions2/hypotenuse/build/CMakeFiles/doc.dir
+/home/usuario/practicas/P09-functions2/hypotenuse/build/CMakeFiles/hypotenuse.dir
+/home/usuario/practicas/P09-functions2/hypotenuse/build/CMakeFiles/tools.dir
